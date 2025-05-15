@@ -7,7 +7,7 @@ function About() {
       its features.
       <p>
         This application is designed to help users transform text in various
-        ways, including converting text to uppercase and lowercase.
+        ways, including converting text to uppercase and lowercase etc.
       </p>
     </div>
   );
